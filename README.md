@@ -1,0 +1,2 @@
+# webpack-no-handle-require
+ 
